@@ -3,6 +3,15 @@ public class BankMainChallenge {
         BankAccount abynBank = new BankAccount();
         BankAccount kevinBank = new BankAccount();
 
+        // Use new constructor created
+        BankAccount benBank = new BankAccount(123123123, 12000,
+                "Ben Scaria", "bscaria@graymail.com", 123234345
+                );
+
+        // Use constructor with 3 parameters
+        BankAccount bankAccount = new BankAccount("Rose", "rose@email.com", 123123);
+
+
         // Setter Methods
         kevinBank.setCustomerName("Kevin Scaria");
         kevinBank.setAccountBalance(4134.02);
