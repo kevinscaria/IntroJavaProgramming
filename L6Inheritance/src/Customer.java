@@ -18,7 +18,7 @@ public class Customer {
     }
 
     public Customer(){
-        this("DefaultName", 1000, "dafaultEmail@service.com");
+        this("DefaultName", "dafaultEmail@service.com");
     }
 
     public Customer(String name, String emailAddress){
