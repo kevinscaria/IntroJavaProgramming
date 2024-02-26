@@ -4,7 +4,7 @@ public class IfElseElseIf {
         boolean gameOver = true;
         int score = 800;
         int levelCompleted = 5;
-        int bonus = 100;
+        int bonus = 90;
 
         int finalScore = score;
 
