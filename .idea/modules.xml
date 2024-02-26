@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IntroJavaProgramming.iml" filepath="$PROJECT_DIR$/.idea/IntroJavaProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1HelloWorld/L1HelloWorld.iml" filepath="$PROJECT_DIR$/L1HelloWorld/L1HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2PrimitiveDataTypes/L2PrimitiveDataTypes.iml" filepath="$PROJECT_DIR$/L2PrimitiveDataTypes/L2PrimitiveDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3KeywordsAndExpressions/L3KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/L3KeywordsAndExpressions/L3KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4ControlFlow/L4ControlFlow.iml" filepath="$PROJECT_DIR$/L4ControlFlow/L4ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L5IO/L5IO.iml" filepath="$PROJECT_DIR$/L5IO/L5IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L6ObjectsAndClasses/L6ObjectsAndClasses.iml" filepath="$PROJECT_DIR$/L6ObjectsAndClasses/L6ObjectsAndClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L7Inheritance/L7Inheritance.iml" filepath="$PROJECT_DIR$/L7Inheritance/L7Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L8StringFormatting/L8StringFormatting.iml" filepath="$PROJECT_DIR$/L8StringFormatting/L8StringFormatting.iml" />
+    </modules>
+  </component>
+</project>
