@@ -3,5 +3,8 @@ public class Main {
         Movie newMovie = new Movie("Star Wars");
         newMovie.watchMovie();
 
+        AdventureMovie adventureMovie1 = new AdventureMovie("Jurassic Park");
+        adventureMovie1.watchMovie();
+
     }
 }

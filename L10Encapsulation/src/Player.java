@@ -3,6 +3,9 @@ public class Player {
     public int health;
     public String weapon;
 
+    public Player() {
+    }
+
     public void loseHealth(int damage) {
         health = health - damage;
         if (health <= 0) {
